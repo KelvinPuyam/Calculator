@@ -23,6 +23,14 @@ This calculator allows users to perform basic arithmetic operations such as addi
 3. Press the "C" button to clear the input field.
 4. Press the "=" button to evaluate the expression and get the result.
 
+### Input
+
+![Input Screenshot](screenshots/Input.png)
+
+### Output
+
+![Output Screenshot](screenshots/Output.png)
+
 ## Dependencies
 
 - Python 3.x
